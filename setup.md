@@ -41,7 +41,7 @@ $ jupyter notebook
 ~~~
 {: .source}
 
-Then create a new notebook by clicking "New" button on the right and selecting "Python 3" from the
+Then create a new notebook by clicking the "New" button on the right and selecting "Python 3" from the
 drop-down menu:
 
 ![](../fig/new-notebook.png)
