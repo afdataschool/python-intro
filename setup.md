@@ -20,7 +20,7 @@ Desktop.
 
 ### Navigate to the `data` folder
 
-If you're using a Unix shell application, such as Terminal app in macOS, Console or Terminal in
+Using a Unix shell application, such as Terminal app in macOS, Console or Terminal in
 Linux, or Git Bash on Windows, execute the following command:
 
 ~~~
